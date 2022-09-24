@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>kubectldemo-image</finalName>
 	</build>
 
 </project>
